@@ -210,13 +210,15 @@ Computer vision experiment for training a convolutional neural network to classi
 
 ---
 
-## 📈 Contribution Activity
+## 🧩 What I'm Building
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ogi-Z&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
-
-</div>
+| Area | Current focus |
+| --- | --- |
+| Backend | Go services, Spring Boot, REST APIs, gRPC |
+| Security | mTLS, MFA, RBAC, audit logging, secure enrollment |
+| Data | PostgreSQL, schema design, persistence layers |
+| Desktop | Tauri-based management applications |
+| Infrastructure | Linux agents, server security and automation |
 
 ---
 
