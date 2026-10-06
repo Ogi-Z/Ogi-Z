@@ -210,11 +210,11 @@ Computer vision experiment for training a convolutional neural network to classi
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ogi-Z/Ogi-Z/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ogi-Z&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
 
 </div>
 
