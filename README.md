@@ -2,6 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:0B4F6C,100:00A6A6&height=220&section=header&text=Oğulcan%20Demirdizen&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Cyber%20Security&descAlignY=55&descSize=18"/>
 
+<a href="https://github.com/altindalorcun/tokengraph">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/Ogi-Z/b6357d059a6126a7cb0728dd3dfd2a3e/raw/tokengraph-dark.svg">
+    <img alt="My AI coding token usage, made with tokengraph" src="https://gist.githubusercontent.com/Ogi-Z/b6357d059a6126a7cb0728dd3dfd2a3e/raw/tokengraph-light.svg">
+  </picture>
+</a>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2600&pause=900&color=23D5AB&center=true&vCenter=true&width=900&lines=Backend+Engineer;Secure+Systems+%26+Architecture;Go+%7C+Java+%7C+Python+%7C+PostgreSQL;Building+Security-Focused+Products;Turning+Ideas+Into+Production+Systems" />
 
 <br/>
